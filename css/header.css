@@ -1,0 +1,15 @@
+.header-banner__h1{
+    text-transform: uppercase;
+    padding: 10px;
+    color: var(--h2-text-color);
+    border: 1px solid rebeccapurple;
+    text-align: center;
+}
+
+.header-banner{
+    background-image: url(../img/baby-yoda.svg);
+    background-size: cover;
+    background-position: center;
+    /* background-repeat: no-repeat; */
+    min-height: 400px;
+}

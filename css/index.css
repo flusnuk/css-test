@@ -1,0 +1,12 @@
+@import url(controls.css);
+@import url(common.css);
+@import url(header.css);
+@import url(product.css);
+@import url(footer.css);
+
+/* 
+selector {
+    property: value;
+    another-property: value;
+}
+*/
