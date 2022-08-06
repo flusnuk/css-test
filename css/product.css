@@ -1,7 +1,16 @@
 .product-card__image{
-    width: 50%;
+    width: 100%;
     margin: auto;
 }
 .product-card__h3:hover {
     color: white;
+}
+.container {
+    max-width: 980px;
+    margin: auto;
+}
+.main-products__list {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 18px;
 }
